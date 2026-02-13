@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>buriburizaemon</title>
+</head>
+
+<body>
+    <h1> <u>BURI-BURI-ZAEMON</u> (ぶりぶりざえもん)</h1>
+    <H2>1800-3000</H2>
+    <div style="display: flex;"> <img width="25%" height="25%"
+            src="https://i.pinimg.com/1200x/9b/9e/5d/9b9e5dc928b596b4899f15eedb8782a5.jpg" alt="">
+        <!-- <img width="50%" height="700px" src="https://i.pinimg.com/1200x/72/4a/33/724a33c79e6c067e16d7f00d025dfd7a.jpg"
+            alt=""> -->
+    </div>
+
+    <p>
+    <ul>
+        <li> buriburizaemon is the well know charactar of shinchan "fictional charactar".. </li>
+        <li> he appired in "jadu ka pata apna kamal dikha"</li>
+    </ul> <br>
+    <b> There are few personlity trade which he is know for which are:</b>
+    <ol>
+        <li> he is self proclmaid strongest charctar in his universe</li>
+        <li> he only works for money his price =(1000000-1000000000) depending on the diffculty of the task.....</li>
+        <li>Hey may turn on you if the apposition is willing to pay more</li>
+        <li> he is a samurai... </li>
+        <li> He is a samurai well known for his small stature but great achievments</li>
+    </ol>
+
+
+
+
+    <h3> <u>Achievememts</u> </h3>
+
+    <dt>
+        <h4>“The Great Villa Annihilation Incident”</h4>
+    </dt>
+
+    <dd> In the Year of Supreme Heroism, <br>
+        The mighty Buri Buri Zaemon fearlessly charged into an evil villain’s luxurious villa… <br>
+
+        <br> With one majestic leap and absolutely zero planning, <br>
+        he unleashed catastrophic destruction. <br>
+
+        <br> Walls collapsed. <br>
+        Chandeliers surrendered. <br>
+        Furniture accepted its fate. <br>
+
+        <br> The villa was reduced to heroic rubble. <br>
+
+        <br> The villain escaped. <br>
+        But the curtains did not. <br>
+    </dd>
+
+    <br> <br> <br>
+
+
+    <img width="25% " height="25%" src="https://i.pinimg.com/1200x/bf/16/7f/bf167fdc26c9f4dfa67afa8eb48261ed.jpg"
+        alt="">
+    <br>
+
+
+    「正義の味方は忙しいのだ！」<br>
+    “A hero of justice is a busy man!” <br>
+    ---- by Buri-Buri zaemon
+
+
+
+
+    <dt>
+        <h4> "The Catastrophe Containment of Lake Sorrow"</h4>
+    </dt>
+
+
+    <dd> When reports emerged of a monstrous aquatic menace terrorizing the shores of Lake Sorrow, <br>
+        Buri Buri Zaemon responded without hesitation — or prior confirmation. <br>
+
+        <br> Arriving on the scene in full ceremonial armor,<br>
+        he announced the commencement of “Operation Aquatic Justice” to no one in particular. <br>
+
+        <br> One rowboat overturned (strategically). <br>
+
+        <br> A wave dramatically displaced. <br>
+
+        <br> The “sea monster” identified as an unusually shaped log. <br>
+
+        <br> Undeterred by factual clarification, <br>
+        Buri Buri Zaemon proclaimed the lake officially liberated. <br>
+
+        <br> The waters were calm shortly afterward. <br>
+
+        <br> Historians continue to debate whether the calm was natural <br>
+        or a direct consequence of his overwhelming heroic presence.
+    </dd>
+
+    </p>
+
+
+    <!-- <video controls src="Recording 2026-02-12 230142.mp4"></video> -->
+    <video controls src="http://127.0.0.1:5500/html/project%203/Recording%202026-02-12%20230142.mp4"></video>
+
+
+    <h3><u>Menu of buri-buri-zaemon </u> </h3>
+    <table bgcolor="black" width="30%">
+        <tr style="background-color: gray;" align="center">
+            <th>murder </th>
+            <th> for beating anyone </th>
+            <th> only for help </th>
+        </tr>
+        <tr style="background-color: lightgray;" align="center">
+            <td> 1000000000 </td>
+            <td>9999999</td>
+            <td>567000</td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
